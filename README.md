@@ -8,4 +8,6 @@ The Projects section highlights some of my best work, including projects complet
 
 Thank you for taking the time to explore my portfolio! If you have any questions or would like to get in touch, please don't hesitate to contact me.
 
-It will continue to evolve as I collect more projects to showcase. 
+<h2>Roadmap of future improvements:</h2>
+More projects will be added as I learn more skills as a fullstack programmer.
+
